@@ -5,5 +5,5 @@ Course YouTube Channel: [https://www.youtube.com/@MUS20ExploringMusicalMindUCSD]
 
 Full Lecture Recordings: [MUS/COGS 20 Lectures SS2 2025](https://www.youtube.com/playlist?list=PLRIfgTJKgMArRPgQwi-jHokBQgIhWeGKm)
 
-Guest Lectures: [MUS/COGS 20 Guest Lectures with UC San Diego Music D.M.A. student Amir Norouz Nasseri (Violin Performance), Ph.D. student Yifan Guo (Composition), and Ph.D. candidate Matthew Chung (Computer Music)](https://www.youtube.com/playlist?list=PLRIfgTJKgMAoKh1kZnNjQaGCRggvxFUq4)
+Guest Lectures: [MUS/COGS 20 Guest Lectures](https://www.youtube.com/playlist?list=PLRIfgTJKgMAoKh1kZnNjQaGCRggvxFUq4) with UC San Diego Music D.M.A. student Amir Norouz Nasseri (Violin Performance), Ph.D. student Yifan Guo (Composition), and Ph.D. candidate Matthew Chung (Computer Music)
 
